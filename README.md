@@ -8,26 +8,26 @@ Dev-C++
 
 # Screenshots
 
-## Main Menu
+### Main Menu
 
 ![main-menu](images/gone_crazy_dave_main_menu.png)
 
-## Text Display
+### Text Display
 
 ![text-display](images/gone_crazy_dave_text_display.png)
 
-## Select Player
+### Select Player
 
 ![select-player](images/gone_crazy_dave_select_player.png)
 
-## World
+### World
 
 ![world](images/gone_crazy_dave_world.png)
 
-## Fighting
+### Fighting
 
 ![fighting](images/gone_crazy_dave_fighting.png)
 
-## Loading
+### Loading
 
 ![loading](images/gone_crazy_dave_loading.png)
