@@ -1,33 +1,32 @@
 # GoneCrazyDave
 
-A ASCII game that coded in C++. This is my final assignments for the second-year C++ course.
+疯狂戴夫是一款命令行窗口小游戏，这是我大学二年级时完成的 C++ 课程设计。
 
-# IDE
+# 开发工具
 
 Dev-C++
 
-# Screenshots
+# 运行截图
 
-### Main Menu
+### 主菜单
 
 ![main-menu](images/gone_crazy_dave_main_menu.png)
 
-### Text Display
+### 文字播放
 
 ![text-display](images/gone_crazy_dave_text_display.png)
 
-### Select Player
+### 选择角色
 
 ![select-player](images/gone_crazy_dave_select_player.png)
 
-### World
-
+### 地图
 ![world](images/gone_crazy_dave_world.png)
 
-### Fighting
+### 战斗
 
 ![fighting](images/gone_crazy_dave_fighting.png)
 
-### Loading
+### 加载
 
 ![loading](images/gone_crazy_dave_loading.png)
